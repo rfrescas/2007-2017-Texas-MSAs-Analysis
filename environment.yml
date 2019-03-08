@@ -21,6 +21,7 @@ dependencies:
   - zlib=1.2.11
   - pip:
     - appnope==0.1.0
+    - attrs==19.1.0
     - backcall==0.1.0
     - chardet==3.0.4
     - cycler==0.10.0
@@ -30,6 +31,7 @@ dependencies:
     - ipython==7.3.0
     - ipython-genutils==0.2.0
     - jedi==0.13.3
+    - jsonschema==3.0.1
     - jupyter-client==5.2.4
     - jupyter-core==4.4.0
     - kiwisolver==1.0.1
@@ -43,6 +45,7 @@ dependencies:
     - ptyprocess==0.6.0
     - pygments==2.3.1
     - pyparsing==2.3.1
+    - pyrsistent==0.14.11
     - python-dateutil==2.8.0
     - pytz==2018.9
     - pyzmq==18.0.1
