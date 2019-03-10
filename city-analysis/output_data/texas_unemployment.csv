@@ -1,0 +1,276 @@
+city,year,unemployment
+"Abilene, TX",2007,3.5373
+"Abilene, TX",2008,3.7812
+"Abilene, TX",2009,5.818
+"Abilene, TX",2010,6.972
+"Abilene, TX",2011,6.7516
+"Abilene, TX",2012,5.8135
+"Abilene, TX",2013,5.4194
+"Abilene, TX",2014,4.325
+"Abilene, TX",2015,3.8464
+"Abilene, TX",2016,3.9331
+"Abilene, TX",2017,3.6826
+"Amarillo, TX",2007,3.3113
+"Amarillo, TX",2008,3.5048
+"Amarillo, TX",2009,5.2611
+"Amarillo, TX",2010,5.6755
+"Amarillo, TX",2011,5.3874
+"Amarillo, TX",2012,4.8331
+"Amarillo, TX",2013,4.6255
+"Amarillo, TX",2014,3.6645
+"Amarillo, TX",2015,3.0849
+"Amarillo, TX",2016,3.1247
+"Amarillo, TX",2017,2.9823
+"Austin-Round Rock, TX",2007,3.6494
+"Austin-Round Rock, TX",2008,4.3054
+"Austin-Round Rock, TX",2009,6.9079
+"Austin-Round Rock, TX",2010,6.9947
+"Austin-Round Rock, TX",2011,6.5936
+"Austin-Round Rock, TX",2012,5.6770000000000005
+"Austin-Round Rock, TX",2013,5.1871
+"Austin-Round Rock, TX",2014,4.209
+"Austin-Round Rock, TX",2015,3.3701
+"Austin-Round Rock, TX",2016,3.2735
+"Austin-Round Rock, TX",2017,3.0963
+"Beaumont-Port Arthur, TX",2007,5.2766
+"Beaumont-Port Arthur, TX",2008,6.3508
+"Beaumont-Port Arthur, TX",2009,9.5231
+"Beaumont-Port Arthur, TX",2010,11.2498
+"Beaumont-Port Arthur, TX",2011,11.194
+"Beaumont-Port Arthur, TX",2012,10.5555
+"Beaumont-Port Arthur, TX",2013,10.3706
+"Beaumont-Port Arthur, TX",2014,7.9257
+"Beaumont-Port Arthur, TX",2015,6.6946
+"Beaumont-Port Arthur, TX",2016,6.8305
+"Beaumont-Port Arthur, TX",2017,7.0658
+"Brownsville-Harlingen, TX",2007,5.8688
+"Brownsville-Harlingen, TX",2008,6.5925
+"Brownsville-Harlingen, TX",2009,9.7199
+"Brownsville-Harlingen, TX",2010,11.1787
+"Brownsville-Harlingen, TX",2011,11.4881
+"Brownsville-Harlingen, TX",2012,10.3078
+"Brownsville-Harlingen, TX",2013,9.967
+"Brownsville-Harlingen, TX",2014,8.3239
+"Brownsville-Harlingen, TX",2015,7.1083
+"Brownsville-Harlingen, TX",2016,7.1713
+"Brownsville-Harlingen, TX",2017,6.875
+"College Station-Bryan, TX",2007,3.7004
+"College Station-Bryan, TX",2008,3.9648
+"College Station-Bryan, TX",2009,5.7209
+"College Station-Bryan, TX",2010,6.591
+"College Station-Bryan, TX",2011,6.3219
+"College Station-Bryan, TX",2012,5.5185
+"College Station-Bryan, TX",2013,5.1173
+"College Station-Bryan, TX",2014,4.1137
+"College Station-Bryan, TX",2015,3.4607
+"College Station-Bryan, TX",2016,3.6219
+"College Station-Bryan, TX",2017,3.2224
+"Corpus Christi, TX",2007,4.3167
+"Corpus Christi, TX",2008,4.5848
+"Corpus Christi, TX",2009,7.0174
+"Corpus Christi, TX",2010,8.5239
+"Corpus Christi, TX",2011,8.2456
+"Corpus Christi, TX",2012,6.7338
+"Corpus Christi, TX",2013,6.2947
+"Corpus Christi, TX",2014,5.2922
+"Corpus Christi, TX",2015,5.1692
+"Corpus Christi, TX",2016,5.895
+"Corpus Christi, TX",2017,5.784
+"Dallas-Fort Worth-Arlington, TX",2007,4.2511
+"Dallas-Fort Worth-Arlington, TX",2008,4.8805
+"Dallas-Fort Worth-Arlington, TX",2009,7.7936
+"Dallas-Fort Worth-Arlington, TX",2010,8.0767
+"Dallas-Fort Worth-Arlington, TX",2011,7.5649
+"Dallas-Fort Worth-Arlington, TX",2012,6.579
+"Dallas-Fort Worth-Arlington, TX",2013,6.1024
+"Dallas-Fort Worth-Arlington, TX",2014,5.0235
+"Dallas-Fort Worth-Arlington, TX",2015,4.059
+"Dallas-Fort Worth-Arlington, TX",2016,3.8719
+"Dallas-Fort Worth-Arlington, TX",2017,3.6426
+"El Paso, TX",2007,5.7851
+"El Paso, TX",2008,6.0891
+"El Paso, TX",2009,8.8203
+"El Paso, TX",2010,9.1521
+"El Paso, TX",2011,9.4664
+"El Paso, TX",2012,8.5341
+"El Paso, TX",2013,7.8999
+"El Paso, TX",2014,6.4045
+"El Paso, TX",2015,5.1625
+"El Paso, TX",2016,4.9453
+"El Paso, TX",2017,4.6113
+"Houston-The Woodlands-Sugar Land, TX",2007,4.2094
+"Houston-The Woodlands-Sugar Land, TX",2008,4.7047
+"Houston-The Woodlands-Sugar Land, TX",2009,7.5729999999999995
+"Houston-The Woodlands-Sugar Land, TX",2010,8.2646
+"Houston-The Woodlands-Sugar Land, TX",2011,7.8105
+"Houston-The Woodlands-Sugar Land, TX",2012,6.601
+"Houston-The Woodlands-Sugar Land, TX",2013,6.0235
+"Houston-The Woodlands-Sugar Land, TX",2014,4.9437
+"Houston-The Woodlands-Sugar Land, TX",2015,4.6023
+"Houston-The Woodlands-Sugar Land, TX",2016,5.2729
+"Houston-The Woodlands-Sugar Land, TX",2017,4.9537
+"Killeen-Temple, TX",2007,4.6068
+"Killeen-Temple, TX",2008,4.9952
+"Killeen-Temple, TX",2009,6.8344
+"Killeen-Temple, TX",2010,7.644
+"Killeen-Temple, TX",2011,7.9448
+"Killeen-Temple, TX",2012,7.3853
+"Killeen-Temple, TX",2013,6.9644
+"Killeen-Temple, TX",2014,5.8287
+"Killeen-Temple, TX",2015,4.647
+"Killeen-Temple, TX",2016,4.5037
+"Killeen-Temple, TX",2017,4.1812
+"Laredo, TX",2007,4.6657
+"Laredo, TX",2008,5.2932
+"Laredo, TX",2009,8.5281
+"Laredo, TX",2010,8.2386
+"Laredo, TX",2011,7.4209
+"Laredo, TX",2012,6.4801
+"Laredo, TX",2013,6.1294
+"Laredo, TX",2014,5.0783
+"Laredo, TX",2015,4.7279
+"Laredo, TX",2016,4.8893
+"Laredo, TX",2017,4.1626
+"Longview, TX",2007,3.8757
+"Longview, TX",2008,4.0507
+"Longview, TX",2009,7.3376
+"Longview, TX",2010,8.0634
+"Longview, TX",2011,7.2621
+"Longview, TX",2012,6.3118
+"Longview, TX",2013,6.0897
+"Longview, TX",2014,4.9146
+"Longview, TX",2015,4.9542
+"Longview, TX",2016,6.0808
+"Longview, TX",2017,5.1307
+"Lubbock, TX",2007,3.6022
+"Lubbock, TX",2008,3.719
+"Lubbock, TX",2009,5.4098
+"Lubbock, TX",2010,6.2963
+"Lubbock, TX",2011,6.0627
+"Lubbock, TX",2012,5.3956
+"Lubbock, TX",2013,4.9661
+"Lubbock, TX",2014,3.9572
+"Lubbock, TX",2015,3.4257
+"Lubbock, TX",2016,3.4126
+"Lubbock, TX",2017,3.1942
+"McAllen-Edinburg-Mission, TX",2007,6.4932
+"McAllen-Edinburg-Mission, TX",2008,7.1213
+"McAllen-Edinburg-Mission, TX",2009,10.4979
+"McAllen-Edinburg-Mission, TX",2010,11.7554
+"McAllen-Edinburg-Mission, TX",2011,11.6054
+"McAllen-Edinburg-Mission, TX",2012,10.6054
+"McAllen-Edinburg-Mission, TX",2013,10.3452
+"McAllen-Edinburg-Mission, TX",2014,8.7552
+"McAllen-Edinburg-Mission, TX",2015,7.9110000000000005
+"McAllen-Edinburg-Mission, TX",2016,7.8059
+"McAllen-Edinburg-Mission, TX",2017,7.3932
+"Midland, TX",2007,2.8554
+"Midland, TX",2008,2.8659
+"Midland, TX",2009,5.5422
+"Midland, TX",2010,5.8587
+"Midland, TX",2011,4.7789
+"Midland, TX",2012,3.9010000000000002
+"Midland, TX",2013,3.6765
+"Midland, TX",2014,2.8846
+"Midland, TX",2015,3.4582
+"Midland, TX",2016,4.4018
+"Midland, TX",2017,3.0108
+"Odessa, TX",2007,3.3407
+"Odessa, TX",2008,3.383
+"Odessa, TX",2009,8.1134
+"Odessa, TX",2010,8.3025
+"Odessa, TX",2011,6.1157
+"Odessa, TX",2012,4.5895
+"Odessa, TX",2013,4.3325
+"Odessa, TX",2014,3.4405
+"Odessa, TX",2015,4.6385
+"Odessa, TX",2016,6.3547
+"Odessa, TX",2017,4.1115
+"San Angelo, TX",2007,3.6403
+"San Angelo, TX",2008,4.0706
+"San Angelo, TX",2009,6.2955
+"San Angelo, TX",2010,6.5301
+"San Angelo, TX",2011,6.2395
+"San Angelo, TX",2012,5.3205
+"San Angelo, TX",2013,5.1448
+"San Angelo, TX",2014,4.0249
+"San Angelo, TX",2015,4.0896
+"San Angelo, TX",2016,4.4565
+"San Angelo, TX",2017,3.6696
+"San Antonio-New Braunfels, TX",2007,4.0285
+"San Antonio-New Braunfels, TX",2008,4.5756
+"San Antonio-New Braunfels, TX",2009,6.6737
+"San Antonio-New Braunfels, TX",2010,7.2367
+"San Antonio-New Braunfels, TX",2011,7.1256
+"San Antonio-New Braunfels, TX",2012,6.2627
+"San Antonio-New Braunfels, TX",2013,5.7931
+"San Antonio-New Braunfels, TX",2014,4.6311
+"San Antonio-New Braunfels, TX",2015,3.7995
+"San Antonio-New Braunfels, TX",2016,3.7636
+"San Antonio-New Braunfels, TX",2017,3.4856
+"Sherman-Denison, TX",2007,4.5636
+"Sherman-Denison, TX",2008,5.1161
+"Sherman-Denison, TX",2009,7.9502
+"Sherman-Denison, TX",2010,8.1848
+"Sherman-Denison, TX",2011,7.8771
+"Sherman-Denison, TX",2012,6.8475
+"Sherman-Denison, TX",2013,6.2618
+"Sherman-Denison, TX",2014,4.8444
+"Sherman-Denison, TX",2015,4.0221
+"Sherman-Denison, TX",2016,3.8480000000000003
+"Sherman-Denison, TX",2017,3.4879
+"Texarkana, TX-AR",2007,4.5719
+"Texarkana, TX-AR",2008,4.5888
+"Texarkana, TX-AR",2009,6.2905
+"Texarkana, TX-AR",2010,7.5977
+"Texarkana, TX-AR",2011,7.6621
+"Texarkana, TX-AR",2012,6.9785
+"Texarkana, TX-AR",2013,7.2576
+"Texarkana, TX-AR",2014,6.1616
+"Texarkana, TX-AR",2015,4.913
+"Texarkana, TX-AR",2016,4.5316
+"Texarkana, TX-AR",2017,4.4977
+"Tyler, TX",2007,4.147
+"Tyler, TX",2008,4.8214
+"Tyler, TX",2009,7.5607
+"Tyler, TX",2010,7.9493
+"Tyler, TX",2011,7.7806
+"Tyler, TX",2012,7.0315
+"Tyler, TX",2013,6.5411
+"Tyler, TX",2014,5.2031
+"Tyler, TX",2015,4.4672
+"Tyler, TX",2016,4.5196
+"Tyler, TX",2017,4.058
+"Victoria, TX",2007,3.4503
+"Victoria, TX",2008,3.7644
+"Victoria, TX",2009,6.9099
+"Victoria, TX",2010,7.6435
+"Victoria, TX",2011,6.7255
+"Victoria, TX",2012,5.5767
+"Victoria, TX",2013,5.3234
+"Victoria, TX",2014,4.1528
+"Victoria, TX",2015,4.2006
+"Victoria, TX",2016,5.4459
+"Victoria, TX",2017,4.8292
+"Waco, TX",2007,4.2495
+"Waco, TX",2008,4.5472
+"Waco, TX",2009,6.8478
+"Waco, TX",2010,7.4268
+"Waco, TX",2011,7.4773
+"Waco, TX",2012,6.68
+"Waco, TX",2013,6.2335
+"Waco, TX",2014,5.0685
+"Waco, TX",2015,4.0709
+"Waco, TX",2016,3.9759
+"Waco, TX",2017,3.8684
+"Wichita Falls, TX",2007,4.0381
+"Wichita Falls, TX",2008,4.666
+"Wichita Falls, TX",2009,7.3683
+"Wichita Falls, TX",2010,7.6639
+"Wichita Falls, TX",2011,6.8020000000000005
+"Wichita Falls, TX",2012,6.0028
+"Wichita Falls, TX",2013,5.7872
+"Wichita Falls, TX",2014,4.8229
+"Wichita Falls, TX",2015,4.2959
+"Wichita Falls, TX",2016,4.3469
+"Wichita Falls, TX",2017,3.6652
