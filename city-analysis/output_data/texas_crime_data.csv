@@ -1,0 +1,111 @@
+,City,Year,Crime
+0,"Austin-Round Rock, TX",2007,3983.0
+10,"Austin-Round Rock, TX",2008,4063.0
+20,"Austin-Round Rock, TX",2009,4152.0
+30,"Austin-Round Rock, TX",2010,3906.0
+40,"Austin-Round Rock, TX",2011,3586.0
+50,"Austin-Round Rock, TX",2012,3546.0
+60,"Austin-Round Rock, TX",2013,3272.0
+70,"Austin-Round Rock, TX",2014,3721.0
+80,"Austin-Round Rock, TX",2015,3766.0
+90,"Austin-Round Rock, TX",2016,3839.0
+100,"Austin-Round Rock, TX",2017,4028.0
+1,"Beaumont-Port Arthur, TX",2007,1548.0
+11,"Beaumont-Port Arthur, TX",2008,1418.0
+21,"Beaumont-Port Arthur, TX",2009,1435.0
+31,"Beaumont-Port Arthur, TX",2010,1319.0
+41,"Beaumont-Port Arthur, TX",2011,1503.0
+51,"Beaumont-Port Arthur, TX",2012,1586.0
+61,"Beaumont-Port Arthur, TX",2013,1584.0
+71,"Beaumont-Port Arthur, TX",2014,1391.0
+81,"Beaumont-Port Arthur, TX",2015,1354.0
+91,"Beaumont-Port Arthur, TX",2016,1277.0
+101,"Beaumont-Port Arthur, TX",2017,1175.0
+2,"Brownsville-Harlingen, TX",2007,1214.0
+12,"Brownsville-Harlingen, TX",2008,1089.0
+22,"Brownsville-Harlingen, TX",2009,754.0
+32,"Brownsville-Harlingen, TX",2010,962.0
+42,"Brownsville-Harlingen, TX",2011,837.0
+52,"Brownsville-Harlingen, TX",2012,744.0
+62,"Brownsville-Harlingen, TX",2013,737.0
+72,"Brownsville-Harlingen, TX",2014,704.0
+82,"Brownsville-Harlingen, TX",2015,659.0
+92,"Brownsville-Harlingen, TX",2016,631.0
+102,"Brownsville-Harlingen, TX",2017,595.0
+3,"Corpus Christi, TX",2007,2367.0
+13,"Corpus Christi, TX",2008,2226.0
+23,"Corpus Christi, TX",2009,2365.0
+33,"Corpus Christi, TX",2010,2068.0
+43,"Corpus Christi, TX",2011,1987.0
+53,"Corpus Christi, TX",2012,2057.0
+63,"Corpus Christi, TX",2013,1939.0
+73,"Corpus Christi, TX",2014,2094.0
+83,"Corpus Christi, TX",2015,2130.0
+93,"Corpus Christi, TX",2016,2154.0
+103,"Corpus Christi, TX",2017,2226.0
+4,"Dallas-Fort Worth-Arlington, TX",2007,20313.0
+14,"Dallas-Fort Worth-Arlington, TX",2008,18309.0
+24,"Dallas-Fort Worth-Arlington, TX",2009,16796.0
+34,"Dallas-Fort Worth-Arlington, TX",2010,15387.0
+44,"Dallas-Fort Worth-Arlington, TX",2011,14773.0
+54,"Dallas-Fort Worth-Arlington, TX",2012,14814.0
+64,"Dallas-Fort Worth-Arlington, TX",2013,14607.0
+74,"Dallas-Fort Worth-Arlington, TX",2014,14803.0
+84,"Dallas-Fort Worth-Arlington, TX",2015,14812.0
+94,"Dallas-Fort Worth-Arlington, TX",2016,14811.0
+104,"Dallas-Fort Worth-Arlington, TX",2017,14879.0
+5,"El Paso, TX",2007,2574.0
+15,"El Paso, TX",2008,2825.0
+25,"El Paso, TX",2009,2830.0
+35,"El Paso, TX",2010,2861.0
+45,"El Paso, TX",2011,2858.0
+55,"El Paso, TX",2012,2859.0
+65,"El Paso, TX",2013,2522.0
+75,"El Paso, TX",2014,2671.0
+85,"El Paso, TX",2015,2609.0
+95,"El Paso, TX",2016,2526.0
+105,"El Paso, TX",2017,2527.0
+6,"Houston-The Woodlands-Sugar Land, TX",2007,24664.0
+16,"Houston-The Woodlands-Sugar Land, TX",2008,24917.0
+26,"Houston-The Woodlands-Sugar Land, TX",2009,25706.0
+36,"Houston-The Woodlands-Sugar Land, TX",2010,22633.0
+46,"Houston-The Woodlands-Sugar Land, TX",2011,20988.0
+56,"Houston-The Woodlands-Sugar Land, TX",2012,21719.0
+66,"Houston-The Woodlands-Sugar Land, TX",2013,21101.0
+76,"Houston-The Woodlands-Sugar Land, TX",2014,22107.0
+86,"Houston-The Woodlands-Sugar Land, TX",2015,22480.0
+96,"Houston-The Woodlands-Sugar Land, TX",2016,22734.0
+106,"Houston-The Woodlands-Sugar Land, TX",2017,23278.0
+7,"Killeen-Temple, TX",2007,1020.0
+17,"Killeen-Temple, TX",2008,1128.0
+27,"Killeen-Temple, TX",2009,930.0
+37,"Killeen-Temple, TX",2010,1204.0
+47,"Killeen-Temple, TX",2011,1000.0
+57,"Killeen-Temple, TX",2012,1053.0
+67,"Killeen-Temple, TX",2013,922.0
+77,"Killeen-Temple, TX",2014,1024.0
+87,"Killeen-Temple, TX",2015,1032.0
+97,"Killeen-Temple, TX",2016,1025.0
+107,"Killeen-Temple, TX",2017,1059.0
+8,"McAllen-Edinburg-Mission, TX",2007,735.0
+18,"McAllen-Edinburg-Mission, TX",2008,774.0
+28,"McAllen-Edinburg-Mission, TX",2009,739.0
+38,"McAllen-Edinburg-Mission, TX",2010,623.0
+48,"McAllen-Edinburg-Mission, TX",2011,628.0
+58,"McAllen-Edinburg-Mission, TX",2012,627.0
+68,"McAllen-Edinburg-Mission, TX",2013,520.0
+78,"McAllen-Edinburg-Mission, TX",2014,572.0
+88,"McAllen-Edinburg-Mission, TX",2015,553.0
+98,"McAllen-Edinburg-Mission, TX",2016,528.0
+108,"McAllen-Edinburg-Mission, TX",2017,531.0
+9,"San Antonio-New Braunfels, TX",2007,7485.0
+19,"San Antonio-New Braunfels, TX",2008,9833.0
+29,"San Antonio-New Braunfels, TX",2009,7986.0
+39,"San Antonio-New Braunfels, TX",2010,8555.0
+49,"San Antonio-New Braunfels, TX",2011,7157.0
+59,"San Antonio-New Braunfels, TX",2012,7058.0
+69,"San Antonio-New Braunfels, TX",2013,8975.0
+79,"San Antonio-New Braunfels, TX",2014,7886.0
+89,"San Antonio-New Braunfels, TX",2015,8129.0
+99,"San Antonio-New Braunfels, TX",2016,8486.0
+109,"San Antonio-New Braunfels, TX",2017,8323.0
