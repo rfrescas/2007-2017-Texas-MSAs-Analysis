@@ -9,6 +9,12 @@ Murtadha Almayahi, Ryan Frescas , Andre Ottoni, Abdullah Suzek, Wee Kim (Jeff) W
 ### Project Description:
 
 We will be analyzing data from 2007 to 2017 to find trends/correlation between population, unemployment rate, total permit, and crime rate.  
+
+### Data Sources:
+
+Real Estate Center at Texas A&M University
+
+Uniform Crime Reporting Statistics: U.S. Department of Justice and Federal Bureau of Investigation
  
 ### Breakdown of Tasks:  
 Investigate and identify data sources  
