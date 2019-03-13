@@ -18,7 +18,7 @@ We will be analyzing data from 2007 to 2017 to find trends/correlation between p
 4. Which metro area has the highest unemployment rate with most population grow?  
 5. Which metro area has the most crime?  
 6. Which metro area has the highest construction permit and population grow?  
-7. Which metro area has the negative grow on population and crime rate?  
+7. Which metro area has the highest crime rate per person (1000 person)? 
  
 ### Breakdown of Tasks:  
 Investigate and identify data sources  
@@ -34,19 +34,22 @@ Graphs using Matplotlib
   
 ### Q&A:  
 1. What are the top 10 metro areas in Texas by highest population in 2017?
+ ![2007-2017-Texas-City-Analysis](city-analysis/Images/city_by_population.PNG)
 
-![2007-2017-Texas-City-Analysis](city-analysis/Images/city_by_population.PNG)
+1. What is the average unemployment rate for each of the top 10 metro areas?
+ ![2007-2017-Texas-City-Analysis](city-analysis/Images/unemployment.png)
 
-2. What is the average unemployment rate for each of the top 10 metro areas?
-![2007-2017-Texas-City-Analysis](city-analysis/Images/unemployment.png)
-3. Which metro area has the most grow with lowest unemployment rate?
+1. Which metro area has the most grow with lowest unemployment rate?
 ![2007-2017-Texas-City-Analysis](city-analysis/Images/population.png)
-4. Which metro area had the highest unemployment rate with most population grow?
 
-5. Which metro area has the highest crime rate?
-![2007-2017-Texas-City-Analysis](city-analysis/Images/crime.png)
-6. Which metro area has the highest construction permit and population grow?
-![2007-2017-Texas-City-Analysis](city-analysis/Images/permit.png)
-7. Which metro area has the negative grow on population and crime rate?
-  
+1. Which metro area had the highest unemployment rate with most population grow?
+
+1. Which metro area has the highest crime rate?
+ ![2007-2017-Texas-City-Analysis](city-analysis/Images/crime.png)
+1. Which metro area has the highest construction permit and population grow?
+ ![2007-2017-Texas-City-Analysis](city-analysis/Images/permit.png)
+1. Which metro area has the highest crime rate per person (1000 person)?
+ ![2007-2017-Texas-City-Analysis](city-analysis/Images/crimerate.png)
+
 ### Conclusion:
+The highest crime rate is in Corpus Christi
