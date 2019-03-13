@@ -34,6 +34,7 @@ Graphs using Matplotlib
   
 ### Q&A:  
 1. What are the top 10 metro areas in Texas by highest population in 2017?
+
 ![2007-2017-Texas-City-Analysis](city-analysis/Images/city_by_population.PNG)
 2. What is the average unemployment rate for each of the top 10 metro areas?
 ![2007-2017-Texas-City-Analysis](city-analysis/Images/unemployment.png)
