@@ -1,4 +1,4 @@
-# Top 10 Cities in Texas
+# Top 10 Metro Area in Texas
 
  Population vs. Unemployment, Total construction permits and Crime rate.
 
@@ -8,19 +8,18 @@ Murtadha Almayahi, Ryan Frescas , Andre Ottoni, Abdullah Suzek, Wee Kim (Jeff) W
 
 ### Project Description:
 
-We will be analyzing data from 2007 to 2018 to find trends/correlation between population, unemployment rate, total permit, and crime rate.  
+We will be analyzing data from 2007 to 2017 to find trends/correlation between population, unemployment rate, total permit, and crime rate.  
 
 ### Key Questions to Answer:
 
-What are the top 10 cities in Texas by population grow from 2007 to 2018?  
-What is the average unemployment rate for each of the top 10 cities?  
-Which city has the most grow with lowest unemployment rate?  
-Which city had the highest unemployment rate with most population grow?  
-Which year has the most xxxxxx?  
-Which city has the highest construction permit and population grow?  
-Which city has the negative grow on population and crime rate?  
-Which data sets has the most accurate detail?  
-  
+What are the top 10 metro areas in Texas by highest population in 2017?  
+What is the average unemployment rate for each of the top 10 metro areas?  
+Which metro area has the most grow with lowest unemployment rate?  
+Which metro area had the highest unemployment rate with most population grow?  
+Which metro area has the most crime?  
+Which metro area has the highest construction permit and population grow?  
+Which metro area has the negative grow on population and crime rate?  
+ 
 ### Breakdown of Tasks:  
 Investigate and identify data sources  
 Collect data sets  
@@ -34,13 +33,18 @@ Perform data cleansing and merge
 Graphs using Matplotlib  
   
 ### Q&A:  
-What are the top 10 cities in Texas by population grow from 2007 to 2018?  
-What is the average unemployment rate for each of the top 10 cities?  
-Which city has the most grow with lowest unemployment rate?  
-Which city had the highest unemployment rate with most population grow?  
-Which year has the most xxxxxx?  
-Which city has the highest construction permit and population grow?  
-Which city has the negative grow on population and crime rate?  
-Which datasets has the most accurate detail?  
+1. What are the top 10 metro areas in Texas by highest population in 2017?
+![2007-2017-Texas-City-Analysis](city-analysis/Images/city_by_population.png)
+2. What is the average unemployment rate for each of the top 10 metro areas?
+![2007-2017-Texas-City-Analysis](city-analysis/Images/unemployment.png)
+3. Which metro area has the most grow with lowest unemployment rate?
+![2007-2017-Texas-City-Analysis](city-analysis/Images/population.png)
+4. Which metro area had the highest unemployment rate with most population grow?
+
+5. Which metro area has the highest crime rate?
+![2007-2017-Texas-City-Analysis](city-analysis/Images/crime.png)
+6. Which metro area has the highest construction permit and population grow?
+![2007-2017-Texas-City-Analysis](city-analysis/Images/permit.png)
+7. Which metro area has the negative grow on population and crime rate?
   
 ### Conclusion:
