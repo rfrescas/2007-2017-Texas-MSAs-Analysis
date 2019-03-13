@@ -35,12 +35,18 @@ Austin Metropolitan area has the highest population growth rate from 2007 to 201
 
 Austin metro area has a consistent growth rate year over year whereas Beamount - Port Arthur has the highest changes in the rate.
 
-3- What is the yearly unemployment rate for each of the top 10 metro areas?
+3- Which metro area has the highest construction permit and population grow?
+
+ ![2007-2017-Texas-City-Analysis](city-analysis/Images/permit.png)
+ 
+ There is a correlation beteween the growth the permit and the population growth the year after.
+ 
+4- What is the yearly unemployment rate for each of the top 10 metro areas?
 
  ![2007-2017-Texas-City-Analysis](city-analysis/Images/unemployment.png)
 Austin metro area has the lowest unemployment rate.
 
-4- Which metro area has the highest crime rate?
+5- Which metro area has the highest crime rate?
 
  ![2007-2017-Texas-City-Analysis](city-analysis/Images/crime.png)
 
@@ -48,9 +54,3 @@ Austin metro area has the lowest unemployment rate.
  ![2007-2017-Texas-City-Analysis](city-analysis/Images/crimerate.png)
  
  The highest crime rate is in Corpus Christi.
- 
-5- Which metro area has the highest construction permit and population grow?
-
- ![2007-2017-Texas-City-Analysis](city-analysis/Images/permit.png)
- 
- There is a correlation beteween the growth the permit and the population growth the year after.
