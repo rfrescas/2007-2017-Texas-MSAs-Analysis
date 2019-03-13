@@ -12,13 +12,13 @@ We will be analyzing data from 2007 to 2017 to find trends/correlation between p
 
 ### Key Questions to Answer:
 
-What are the top 10 metro areas in Texas by highest population in 2017?  
-What is the average unemployment rate for each of the top 10 metro areas?  
-Which metro area has the most grow with lowest unemployment rate?  
-Which metro area had the highest unemployment rate with most population grow?  
-Which metro area has the most crime?  
-Which metro area has the highest construction permit and population grow?  
-Which metro area has the negative grow on population and crime rate?  
+1. What are the top 10 metro areas in Texas by highest population in 2017?  
+2. What is the average unemployment rate for each of the top 10 metro areas?  
+3. Which metro area has the most grow with lowest unemployment rate?  
+4. Which metro area has the highest unemployment rate with most population grow?  
+5. Which metro area has the most crime?  
+6. Which metro area has the highest construction permit and population grow?  
+7. Which metro area has the negative grow on population and crime rate?  
  
 ### Breakdown of Tasks:  
 Investigate and identify data sources  
