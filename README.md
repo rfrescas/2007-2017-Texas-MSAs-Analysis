@@ -9,16 +9,6 @@ Murtadha Almayahi, Ryan Frescas , Andre Ottoni, Abdullah Suzek, Wee Kim (Jeff) W
 ### Project Description:
 
 We will be analyzing data from 2007 to 2017 to find trends/correlation between population, unemployment rate, total permit, and crime rate.  
-
-### Key Questions to Answer:
-
-1. What are the top 10 metro areas in Texas by highest population in 2017?  
-2. What is the average unemployment rate for each of the top 10 metro areas?  
-3. Which metro area has the most grow with lowest unemployment rate?  
-4. Which metro area has the highest unemployment rate with most population grow?  
-5. Which metro area has the most crime?  
-6. Which metro area has the highest construction permit and population grow?  
-7. Which metro area has the highest crime rate per person (1000 person)? 
  
 ### Breakdown of Tasks:  
 Investigate and identify data sources  
@@ -33,23 +23,34 @@ Perform data cleansing and merge
 Graphs using Matplotlib  
   
 ### Q&A:  
-1. What are the top 10 metro areas in Texas by highest population in 2017?
+1- What are the top 10 metro areas in Texas by highest population in average from 2007 to 2017?
+
  ![2007-2017-Texas-City-Analysis](city-analysis/Images/city_by_population.PNG)
 
-1. What is the average unemployment rate for each of the top 10 metro areas?
- ![2007-2017-Texas-City-Analysis](city-analysis/Images/unemployment.png)
+Austin Metropolitan area has the highest population growth rate from 2007 to 2017.
 
-1. Which metro area has the most grow with lowest unemployment rate?
+2- What results can be deducted from the population growth chart?
+
 ![2007-2017-Texas-City-Analysis](city-analysis/Images/population.png)
 
-1. Which metro area had the highest unemployment rate with most population grow?
+Austin metro area has a consistent growth rate year over year whereas Beamount - Port Arthur has the highest changes in the rate.
 
-1. Which metro area has the highest crime rate?
+3- What is the yearly unemployment rate for each of the top 10 metro areas?
+
+ ![2007-2017-Texas-City-Analysis](city-analysis/Images/unemployment.png)
+Austin metro area has the lowest unemployment rate.
+
+4- Which metro area has the highest crime rate?
+
  ![2007-2017-Texas-City-Analysis](city-analysis/Images/crime.png)
-1. Which metro area has the highest construction permit and population grow?
- ![2007-2017-Texas-City-Analysis](city-analysis/Images/permit.png)
-1. Which metro area has the highest crime rate per person (1000 person)?
- ![2007-2017-Texas-City-Analysis](city-analysis/Images/crimerate.png)
 
-### Conclusion:
-The highest crime rate is in Corpus Christi
+ 
+ ![2007-2017-Texas-City-Analysis](city-analysis/Images/crimerate.png)
+ 
+ The highest crime rate is in Corpus Christi.
+ 
+5- Which metro area has the highest construction permit and population grow?
+
+ ![2007-2017-Texas-City-Analysis](city-analysis/Images/permit.png)
+ 
+ There is a correlation beteween the growth the permit and the population growth the year after.
