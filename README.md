@@ -43,7 +43,7 @@ Austin Metropolitan area has the highest population growth rate from 2007 to 201
 
 ![2007-2017-Texas-City-Analysis](city-analysis/Images/population.png)
 
-Austin metro area has a consistent growth rate year over year whereas Beamount - Port Arthur has the highest changes in the rate.
+Austin metro area has a consistent growth rate year over year whereas Beamount - Port Arthur has the lowest percentage changes.
 
 ## 3- Which metro area has had the highest construction permits year over year?
 
