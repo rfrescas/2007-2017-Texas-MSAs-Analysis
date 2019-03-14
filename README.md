@@ -8,7 +8,10 @@ Murtadha Almayahi, Ryan Frescas , Andre Ottoni, Abdullah Suzek, Wee Kim (Jeff) W
 
 ### Project Description:
 
-We will be analyzing data from 2007 to 2017 to find trends/correlation between population, unemployment rate, total permit, and crime rate.  
+We analyzed data from the main Texas metro areas during 2007-2017 to find trends/correlation between population, unemployment rate, total permits, and crime rate.  
+
+### Hypothesis:
+A regions population growth/decline has some correlations with factors such as crime rate, unemployment rate etc.
 
 ### Data Sources:
 
