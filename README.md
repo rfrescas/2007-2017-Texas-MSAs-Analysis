@@ -20,16 +20,16 @@ Real Estate Center at Texas A&M University
 Uniform Crime Reporting Statistics: U.S. Department of Justice and Federal Bureau of Investigation
  
 ### Breakdown of Tasks:  
-Investigate and identify data sources  
-Collect data sets  
-Perform first screening on data sets  
-Breaking down data for further analysis  
-Get population Data  
-Get unemployment Data  
-Get total construction permit Data  
-Get crime rate Data  
-Perform data cleansing and merge  
-Graphs using Matplotlib  
+* Investigate and identify data sources  
+* Collect data sets  
+* Perform first screening on data sets  
+* Breaking down data for further analysis  
+* Get population Data  
+* Get unemployment Data  
+* Get total construction permit Data  
+* Get crime rate Data  
+* Perform data cleansing and merge  
+* Graphs using Matplotlib  
   
 ### Q&A:  
 ## 1- What are the top 10 metro areas in Texas by highest population in average from 2007 to 2017?
@@ -45,7 +45,7 @@ Austin Metropolitan area has the highest population growth rate from 2007 to 201
 
 Austin metro area has a consistent growth rate year over year whereas Beamount - Port Arthur has the highest changes in the rate.
 
-## 3- Which metro area has the highest construction permit and population grow?
+## 3- Which metro area has had the highest construction permits year over year?
 
  ![2007-2017-Texas-City-Analysis](city-analysis/Images/permit.png)
  
