@@ -43,7 +43,7 @@ Austin Metropolitan area has the highest population growth rate from 2007 to 201
 
 ![2007-2017-Texas-City-Analysis](city-analysis/Images/population.png)
 
-Austin metro area has a consistent growth rate year over year whereas Beamount - Port Arthur has the lowest percentage changes.
+Austin metro area has a consistent growth rate year over year whereas Beamount-Port Arthur has the lowest percentage changes.
 
 
 ## 3- Which metro area has had the highest construction permits year over year?
@@ -65,4 +65,6 @@ Austin metro area has the lowest unemployment rate. Also, the metro areas around
  
  ![2007-2017-Texas-City-Analysis](city-analysis/Images/crimerate.png)
  
- The highest crime rate is in Corpus Christi.
+ The highest crime rate is in Corpus Christi. 
+ We also see the difference between Austin vs Beamount-Port Arthur, following the pattern from other data points.
+ Another correlation we can see is that the crime rate is higher on the costal regions, in general.
